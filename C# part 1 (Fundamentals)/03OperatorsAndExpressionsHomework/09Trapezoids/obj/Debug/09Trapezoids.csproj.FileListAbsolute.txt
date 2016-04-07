@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\bin\Debug\09Trapezoids.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\bin\Debug\09Trapezoids.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\obj\Debug\09Trapezoids.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\obj\Debug\09Trapezoids.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\09Trapezoids\obj\Debug\09Trapezoids.pdb

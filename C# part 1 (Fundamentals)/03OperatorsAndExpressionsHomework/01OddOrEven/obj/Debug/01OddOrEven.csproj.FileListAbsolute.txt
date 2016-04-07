@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\bin\Debug\01OddOrEven.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\bin\Debug\01OddOrEven.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\obj\Debug\01OddOrEven.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\01OddOrEven\obj\Debug\01OddOrEven.pdb

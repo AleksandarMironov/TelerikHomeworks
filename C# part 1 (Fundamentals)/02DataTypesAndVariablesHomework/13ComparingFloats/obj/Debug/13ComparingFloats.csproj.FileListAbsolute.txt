@@ -1,0 +1,6 @@
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.csprojResolveAssemblyReference.cache
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.pdb

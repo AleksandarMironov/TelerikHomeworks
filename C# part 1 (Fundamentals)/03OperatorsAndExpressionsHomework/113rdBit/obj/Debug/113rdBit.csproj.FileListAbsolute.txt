@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\bin\Debug\113rdBit.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\bin\Debug\113rdBit.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\bin\Debug\113rdBit.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\obj\Debug\113rdBit.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\obj\Debug\113rdBit.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\113rdBit\obj\Debug\113rdBit.pdb

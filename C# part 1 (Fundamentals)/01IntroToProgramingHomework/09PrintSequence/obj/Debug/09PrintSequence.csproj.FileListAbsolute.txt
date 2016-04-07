@@ -1,0 +1,8 @@
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\bin\Debug\09PrintSequence.exe.config
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\bin\Debug\09PrintSequence.exe
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\bin\Debug\09PrintSequence.pdb
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\bin\Debug\09PrintSequence.exe.CodeAnalysisLog.xml
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\bin\Debug\09PrintSequence.exe.lastcodeanalysissucceeded
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\obj\Debug\09PrintSequence.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\obj\Debug\09PrintSequence.exe
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\09PrintSequence\obj\Debug\09PrintSequence.pdb

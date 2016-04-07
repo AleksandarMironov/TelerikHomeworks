@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\bin\Debug\14BitExchange.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\bin\Debug\14BitExchange.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\bin\Debug\14BitExchange.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\obj\Debug\14BitExchange.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\obj\Debug\14BitExchange.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\14BitExchange\obj\Debug\14BitExchange.pdb

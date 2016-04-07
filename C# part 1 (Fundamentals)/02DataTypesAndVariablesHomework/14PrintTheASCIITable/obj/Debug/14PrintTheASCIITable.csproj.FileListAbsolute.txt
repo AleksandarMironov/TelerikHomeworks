@@ -1,0 +1,6 @@
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe.config
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.pdb
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.csprojResolveAssemblyReference.cache
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.pdb

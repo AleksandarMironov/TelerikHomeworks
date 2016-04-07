@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\obj\Debug\12N-thBit.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\obj\Debug\12N-thBit.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\03. Operators-and-Expressions\Homework\03OperatorsAndExpressions\12N-thBit\obj\Debug\12N-thBit.csprojResolveAssemblyReference.cache

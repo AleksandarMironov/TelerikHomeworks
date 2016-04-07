@@ -1,0 +1,6 @@
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.csprojResolveAssemblyReference.cache
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+c:\users\viva\documents\visual studio 2015\Projects\02DataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\bin\Debug\06PrintNumbers.exe.config
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\bin\Debug\06PrintNumbers.exe
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\bin\Debug\06PrintNumbers.pdb
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\obj\Debug\06PrintNumbers.exe
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\obj\Debug\06PrintNumbers.pdb
+Z:\Сашо\Telerik\01 HTML oснови (март 2016)\01. Introduction-to-Programming Homework\01IntroHomework\06PrintNumbers\obj\Debug\06PrintNumbers.csprojResolveAssemblyReference.cache
