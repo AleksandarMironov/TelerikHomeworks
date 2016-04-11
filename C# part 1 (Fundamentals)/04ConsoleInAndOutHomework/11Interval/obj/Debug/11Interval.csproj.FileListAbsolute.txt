@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\bin\Debug\11Interval.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\bin\Debug\11Interval.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\bin\Debug\11Interval.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\obj\Debug\11Interval.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\obj\Debug\11Interval.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\11Interval\obj\Debug\11Interval.pdb

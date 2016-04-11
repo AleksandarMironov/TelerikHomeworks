@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\02CompanyInfo\bin\Debug\02CompanyInfo.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\02CompanyInfo\bin\Debug\02CompanyInfo.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\02CompanyInfo\bin\Debug\02CompanyInfo.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\02CompanyInfo\obj\Debug\02CompanyInfo.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\02CompanyInfo\obj\Debug\02CompanyInfo.pdb

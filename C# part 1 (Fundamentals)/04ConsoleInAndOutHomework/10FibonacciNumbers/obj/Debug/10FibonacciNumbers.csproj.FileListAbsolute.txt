@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\04. Console-In-and-Out\Homework\04ConsoleInAndOutHomework\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
