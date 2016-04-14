@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.pdb

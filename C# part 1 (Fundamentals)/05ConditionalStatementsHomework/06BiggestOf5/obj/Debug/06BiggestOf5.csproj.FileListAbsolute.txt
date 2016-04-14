@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\06BiggestOf5\bin\Debug\06BiggestOf5.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\06BiggestOf5\bin\Debug\06BiggestOf5.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\06BiggestOf5\bin\Debug\06BiggestOf5.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\06BiggestOf5\obj\Debug\06BiggestOf5.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\06BiggestOf5\obj\Debug\06BiggestOf5.pdb

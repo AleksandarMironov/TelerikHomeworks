@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

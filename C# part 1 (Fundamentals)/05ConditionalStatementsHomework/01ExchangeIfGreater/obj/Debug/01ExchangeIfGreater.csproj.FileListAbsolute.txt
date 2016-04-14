@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

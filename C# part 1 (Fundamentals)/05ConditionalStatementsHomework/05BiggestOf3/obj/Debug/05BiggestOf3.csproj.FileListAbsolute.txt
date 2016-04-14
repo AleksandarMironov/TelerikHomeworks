@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\bin\Debug\05BiggestOf3.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\bin\Debug\05BiggestOf3.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\bin\Debug\05BiggestOf3.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\obj\Debug\05BiggestOf3.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\obj\Debug\05BiggestOf3.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\05. Conditional Statements\Homework\05ConditionalStatementsHomework\05BiggestOf3\obj\Debug\05BiggestOf3.pdb
