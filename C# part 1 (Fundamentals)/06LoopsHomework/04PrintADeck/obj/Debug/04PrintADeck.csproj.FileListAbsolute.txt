@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\bin\Debug\04PrintADeck.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\bin\Debug\04PrintADeck.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\bin\Debug\04PrintADeck.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\obj\Debug\04PrintADeck.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\obj\Debug\04PrintADeck.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\04PrintADeck\obj\Debug\04PrintADeck.pdb

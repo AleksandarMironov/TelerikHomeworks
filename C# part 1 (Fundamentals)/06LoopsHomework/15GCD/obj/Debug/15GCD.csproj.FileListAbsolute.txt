@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\bin\Debug\15GCD.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\bin\Debug\15GCD.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\bin\Debug\15GCD.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\obj\Debug\15GCD.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\obj\Debug\15GCD.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\15GCD\obj\Debug\15GCD.pdb

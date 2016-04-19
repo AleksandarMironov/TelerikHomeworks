@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\bin\Debug\05Calculate!.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\bin\Debug\05Calculate!.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\bin\Debug\05Calculate!.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\obj\Debug\05Calculate!.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\obj\Debug\05Calculate!.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\05Calculate!\obj\Debug\05Calculate!.csprojResolveAssemblyReference.cache

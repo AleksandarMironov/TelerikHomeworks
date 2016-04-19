@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\bin\Debug\17SpiralMatrix.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\obj\Debug\17SpiralMatrix.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\bin\Debug\17SpiralMatrix.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\bin\Debug\17SpiralMatrix.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\obj\Debug\17SpiralMatrix.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\06. Loops\Homework\06LoopsHomework\17SpiralMatrix\obj\Debug\17SpiralMatrix.pdb
