@@ -1,0 +1,1 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\03SequenceInMatrix\bin\Debug\03SequenceInMatrix.exe.config

@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\02. Multidimensional Arrays\Homework\02MultidimensionalArraysHomework\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb
