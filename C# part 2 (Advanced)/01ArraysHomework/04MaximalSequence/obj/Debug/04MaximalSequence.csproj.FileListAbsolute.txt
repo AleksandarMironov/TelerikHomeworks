@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\bin\Debug\04MaximalSequence.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\bin\Debug\04MaximalSequence.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\bin\Debug\04MaximalSequence.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\obj\Debug\04MaximalSequence.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\obj\Debug\04MaximalSequence.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\04MaximalSequence\obj\Debug\04MaximalSequence.pdb

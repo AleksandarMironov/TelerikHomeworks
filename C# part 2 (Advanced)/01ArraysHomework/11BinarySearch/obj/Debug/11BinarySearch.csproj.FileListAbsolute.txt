@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\bin\Debug\11BinarySearch.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\bin\Debug\11BinarySearch.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\bin\Debug\11BinarySearch.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\obj\Debug\11BinarySearch.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\obj\Debug\11BinarySearch.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\11BinarySearch\obj\Debug\11BinarySearch.pdb

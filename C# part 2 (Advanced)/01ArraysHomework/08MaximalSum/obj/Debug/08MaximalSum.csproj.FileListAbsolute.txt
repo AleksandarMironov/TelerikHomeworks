@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\bin\Debug\08MaximalSum.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\bin\Debug\08MaximalSum.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\bin\Debug\08MaximalSum.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\obj\Debug\08MaximalSum.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\obj\Debug\08MaximalSum.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\08MaximalSum\obj\Debug\08MaximalSum.pdb

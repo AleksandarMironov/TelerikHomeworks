@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\01. Arrays\Homework\01ArraysHomework\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
