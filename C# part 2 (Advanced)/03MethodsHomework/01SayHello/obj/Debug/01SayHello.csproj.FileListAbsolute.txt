@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\01SayHello\bin\Debug\01SayHello.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\01SayHello\bin\Debug\01SayHello.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\01SayHello\bin\Debug\01SayHello.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\01SayHello\obj\Debug\01SayHello.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\01SayHello\obj\Debug\01SayHello.pdb

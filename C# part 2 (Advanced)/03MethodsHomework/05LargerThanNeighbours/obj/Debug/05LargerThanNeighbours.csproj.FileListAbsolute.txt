@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\bin\Debug\05LargerThanNeighbours.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\bin\Debug\05LargerThanNeighbours.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\bin\Debug\05LargerThanNeighbours.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\obj\Debug\05LargerThanNeighbours.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\obj\Debug\05LargerThanNeighbours.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\05LargerThanNeighbours\obj\Debug\05LargerThanNeighbours.pdb

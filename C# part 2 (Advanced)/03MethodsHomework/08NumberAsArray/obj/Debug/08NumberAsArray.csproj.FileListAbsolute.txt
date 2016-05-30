@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\bin\Debug\08NumberAsArray.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\bin\Debug\08NumberAsArray.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\bin\Debug\08NumberAsArray.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\obj\Debug\08NumberAsArray.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\obj\Debug\08NumberAsArray.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\03. Methods\Homework\03MethodsHomework\08NumberAsArray\obj\Debug\08NumberAsArray.pdb
