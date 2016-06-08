@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+header {
+    position: center;
+    left: 0px;
+    top: 0px;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+a{
+    color: black;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    text-align: center;
+}
+
+section{
+    position: relative;
+    left: 40%;
+}
