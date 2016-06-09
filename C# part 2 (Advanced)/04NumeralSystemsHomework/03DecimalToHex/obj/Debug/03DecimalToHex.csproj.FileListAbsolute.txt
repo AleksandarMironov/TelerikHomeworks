@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\03DecimalToHex\bin\Debug\03DecimalToHex.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\03DecimalToHex\bin\Debug\03DecimalToHex.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\03DecimalToHex\bin\Debug\03DecimalToHex.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\03DecimalToHex\obj\Debug\03DecimalToHex.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\03DecimalToHex\obj\Debug\03DecimalToHex.pdb

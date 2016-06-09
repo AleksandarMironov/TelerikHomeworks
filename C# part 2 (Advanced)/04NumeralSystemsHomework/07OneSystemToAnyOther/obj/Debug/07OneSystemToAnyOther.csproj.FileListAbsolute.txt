@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.pdb

@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\01DecimalToBinary\bin\Debug\01DecimalToBinary.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\01DecimalToBinary\obj\Debug\01DecimalToBinary.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\01DecimalToBinary\obj\Debug\01DecimalToBinary.pdb

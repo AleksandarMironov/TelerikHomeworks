@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\bin\Debug\08BinaryShort.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\bin\Debug\08BinaryShort.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\bin\Debug\08BinaryShort.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\obj\Debug\08BinaryShort.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\obj\Debug\08BinaryShort.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\04. Numeral-Systems\Homework\04NumeralSystemsHomwork\04NumeralSystemsHomework\08BinaryShort\obj\Debug\08BinaryShort.pdb
