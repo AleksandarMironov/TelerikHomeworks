@@ -1,0 +1,38 @@
+body {
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+table {
+    border: 1px solid tan;
+    text-align: left;
+    width: 500px;
+}
+
+thead tr {
+    background-color: #55B806;
+    color: beige;
+}
+
+tr, td, th {
+    padding: 1%;
+    border-left: 1px solid tan;
+}
+
+.germany:before {
+    content: url("Pictures/germany.png");
+}
+
+.mexico:before {
+    content: url("Pictures/mexico.png");
+}
+
+.uk:before {
+    content: url("Pictures/uk.png");
+}
+
+tr:nth-child(even) {
+    background-color: #ECECD7;
+}

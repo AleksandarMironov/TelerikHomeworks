@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\04SubStringInText\bin\Debug\04SubStringInText.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\04SubStringInText\bin\Debug\04SubStringInText.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\04SubStringInText\bin\Debug\04SubStringInText.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\04SubStringInText\obj\Debug\04SubStringInText.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\04SubStringInText\obj\Debug\04SubStringInText.pdb

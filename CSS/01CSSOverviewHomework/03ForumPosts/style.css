@@ -1,0 +1,43 @@
+body{
+    background-color:#A9A9A9 ;
+}
+
+header{
+    color: #FAFAD2;
+    text-align: center;
+}
+
+li>a {
+    color: white ;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+li{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+
+p>a {
+    color: black;
+    text-decoration: none;
+}
+
+.current  {
+    background-color: silver;
+}
+
+#underline{
+    text-decoration: underline;
+}
+
+body>footer{
+    text-align: center;
+}
+
+article>p{
+    text-overflow: clip;
+}
+

@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\bin\Debug\08ExtractSentences.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\bin\Debug\08ExtractSentences.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\bin\Debug\08ExtractSentences.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\obj\Debug\08ExtractSentences.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\obj\Debug\08ExtractSentences.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\08ExtractSentences\obj\Debug\08ExtractSentences.pdb

@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\bin\Debug\02ReverseString.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\bin\Debug\02ReverseString.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\bin\Debug\02ReverseString.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\obj\Debug\02ReverseString.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\obj\Debug\02ReverseString.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\02ReverseString\obj\Debug\02ReverseString.pdb

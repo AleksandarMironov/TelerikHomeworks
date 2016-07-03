@@ -1,0 +1,56 @@
+body{
+    background-color: #595959;
+    font-size: 12px;
+    margin: 1%;
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    color: silver;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+table {
+    width: 300px;
+    height: 200px;
+}
+
+.left{
+    color: white;
+    font-style: italic;
+    text-align: left;
+
+}
+#rightLine1 {
+    color: #D2CC86;
+
+}
+#rightLine1:before{
+    content: url("dot.png");
+}
+
+#rightLine2{
+    color: red;
+    vertical-align: super;
+}
+
+#rightLine3{
+    color: #D2CC86;
+
+}
+
+#rightLine4, #rightLine5 {
+    color: silver;
+
+}
+
+#rightLine6{
+    color: #D2CC86;
+
+}
+
+#rightLine7{
+    color: #B86829;
+    font-weight: bold;
+}

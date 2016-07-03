@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\obj\Debug\02EnterNumbers.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\02EnterNumbers\obj\Debug\02EnterNumbers.pdb

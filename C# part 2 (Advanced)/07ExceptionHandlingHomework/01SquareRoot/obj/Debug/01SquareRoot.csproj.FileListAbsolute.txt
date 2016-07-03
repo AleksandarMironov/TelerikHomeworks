@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\bin\Debug\01SquareRoot.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\bin\Debug\01SquareRoot.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\bin\Debug\01SquareRoot.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\obj\Debug\01SquareRoot.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\obj\Debug\01SquareRoot.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\07. Exception Handling\Homework\07ExceptionHandlingHomework\01SquareRoot\obj\Debug\01SquareRoot.pdb

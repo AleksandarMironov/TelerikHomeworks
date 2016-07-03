@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\bin\Debug\04.exe.config
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\bin\Debug\04.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\bin\Debug\04.pdb
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\obj\Debug\04.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\obj\Debug\04.exe
+Z:\Сашо\Telerik\02 C# програмиране - част I (март 2016)\TheExam\TheExam\04\obj\Debug\04.pdb

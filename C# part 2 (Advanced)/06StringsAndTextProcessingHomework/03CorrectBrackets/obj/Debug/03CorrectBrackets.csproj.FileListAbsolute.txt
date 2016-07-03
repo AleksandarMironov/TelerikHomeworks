@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\03CorrectBrackets\bin\Debug\03CorrectBrackets.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\03CorrectBrackets\bin\Debug\03CorrectBrackets.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\03CorrectBrackets\bin\Debug\03CorrectBrackets.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\03CorrectBrackets\obj\Debug\03CorrectBrackets.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\06. Strings and Text Processing\Homework\06StringsAndTextProcessingHomework\03CorrectBrackets\obj\Debug\03CorrectBrackets.pdb
