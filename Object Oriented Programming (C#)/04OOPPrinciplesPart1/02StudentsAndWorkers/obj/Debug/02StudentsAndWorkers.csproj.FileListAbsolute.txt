@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\bin\Debug\02StudentsAndWorkers.exe.config
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\bin\Debug\02StudentsAndWorkers.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\bin\Debug\02StudentsAndWorkers.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\obj\Debug\02StudentsAndWorkers.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\obj\Debug\02StudentsAndWorkers.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\04 OOP Principles - Part 1\Homework\04OOPPrinciplesPart1\02StudentsAndWorkers\obj\Debug\02StudentsAndWorkers.csprojResolveAssemblyReference.cache

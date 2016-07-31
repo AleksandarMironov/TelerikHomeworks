@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\04VersionAttribute\bin\Debug\04VersionAttribute.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\04VersionAttribute\bin\Debug\04VersionAttribute.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\04VersionAttribute\bin\Debug\04VersionAttribute.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\04VersionAttribute\obj\Debug\04VersionAttribute.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\04VersionAttribute\obj\Debug\04VersionAttribute.pdb

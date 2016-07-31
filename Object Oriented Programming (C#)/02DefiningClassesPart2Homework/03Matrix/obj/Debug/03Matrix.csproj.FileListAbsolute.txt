@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\03Matrix\bin\Debug\03Matrix.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\03Matrix\bin\Debug\03Matrix.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\03Matrix\bin\Debug\03Matrix.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\03Matrix\obj\Debug\03Matrix.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\03Matrix\obj\Debug\03Matrix.pdb

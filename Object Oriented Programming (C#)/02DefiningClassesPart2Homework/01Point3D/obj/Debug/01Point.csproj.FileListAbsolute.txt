@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\bin\Debug\Homework.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\bin\Debug\Homework.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\bin\Debug\Homework.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\obj\Debug\01Point.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\obj\Debug\Homework.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\Homework\obj\Debug\Homework.pdb

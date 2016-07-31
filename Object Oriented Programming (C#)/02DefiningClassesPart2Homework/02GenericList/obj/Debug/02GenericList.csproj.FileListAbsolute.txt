@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\02GenericList\bin\Debug\02GenericList.exe.config
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\02GenericList\bin\Debug\02GenericList.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\02GenericList\bin\Debug\02GenericList.pdb
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\02GenericList\obj\Debug\02GenericList.exe
+Z:\Сашо\Telerik\03 C# програмиране - част II (маи 2016)\EXAM\02DefiningClassesPart2Homework\02GenericList\obj\Debug\02GenericList.pdb
