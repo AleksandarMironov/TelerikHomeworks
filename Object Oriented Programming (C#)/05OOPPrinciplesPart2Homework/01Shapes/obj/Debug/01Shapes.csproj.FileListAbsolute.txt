@@ -1,0 +1,6 @@
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\bin\Debug\01Shapes.exe.config
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\bin\Debug\01Shapes.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\bin\Debug\01Shapes.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\obj\Debug\01Shapes.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\obj\Debug\01Shapes.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\01Shapes\obj\Debug\01Shapes.pdb

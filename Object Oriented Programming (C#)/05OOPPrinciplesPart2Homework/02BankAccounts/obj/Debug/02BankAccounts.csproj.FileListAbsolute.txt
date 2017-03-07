@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\02BankAccounts\bin\Debug\02BankAccounts.exe.config
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\02BankAccounts\bin\Debug\02BankAccounts.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\02BankAccounts\bin\Debug\02BankAccounts.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\02BankAccounts\obj\Debug\02BankAccounts.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\02BankAccounts\obj\Debug\02BankAccounts.pdb

@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\03RangeExceptions\bin\Debug\03RangeExceptions.exe.config
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\03RangeExceptions\bin\Debug\03RangeExceptions.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\03RangeExceptions\bin\Debug\03RangeExceptions.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\03RangeExceptions\obj\Debug\03RangeExceptions.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\05 OOP Principles - Part 2\Homework\05OOPPrinciplesPart2Homework\03RangeExceptions\obj\Debug\03RangeExceptions.pdb

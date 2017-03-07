@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\06 Common Type System\Homework\06CommonTypeSystemHomework\5Problem\bin\Debug\5Problem.exe.config
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\06 Common Type System\Homework\06CommonTypeSystemHomework\5Problem\bin\Debug\5Problem.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\06 Common Type System\Homework\06CommonTypeSystemHomework\5Problem\bin\Debug\5Problem.pdb
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\06 Common Type System\Homework\06CommonTypeSystemHomework\5Problem\obj\Debug\5Problem.exe
+Z:\Сашо\Telerik\05 Обектно-ориентирано програмиране (юни 2016)\06 Common Type System\Homework\06CommonTypeSystemHomework\5Problem\obj\Debug\5Problem.pdb
