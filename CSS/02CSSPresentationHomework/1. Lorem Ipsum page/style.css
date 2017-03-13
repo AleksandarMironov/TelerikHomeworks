@@ -1,0 +1,21 @@
+section{
+    color: #0094ff;
+    font-family: Consolas;
+}
+@font-face {font-family: "Edwardian Script ITC";
+    src: url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.eot");
+    src: url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/ca6f91c0cad2fe33614026d17117601d.svg#Edwardian Script ITC") format("svg");
+}
+
+p:first-line{
+    font-weight: bold;
+}
+
+p:first-letter{
+    font-family: "Edwardian Script ITC";
+    font-size: 45px;
+}
