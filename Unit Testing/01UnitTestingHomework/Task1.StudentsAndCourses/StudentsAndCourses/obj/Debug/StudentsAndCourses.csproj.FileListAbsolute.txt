@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.pdb

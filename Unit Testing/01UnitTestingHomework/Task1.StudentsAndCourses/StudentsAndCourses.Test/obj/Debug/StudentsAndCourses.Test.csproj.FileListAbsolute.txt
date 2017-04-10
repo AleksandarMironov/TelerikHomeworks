@@ -1,0 +1,14 @@
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.Test.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.Test.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Telerik.JustMock.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\bin\Debug\Telerik.JustMock.xml
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task1.StudentsAndCourses\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.pdb

@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Demo\bin\Debug\Poker.exe
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Demo\bin\Debug\Poker.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Demo\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Demo\obj\Debug\Poker.exe
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Demo\obj\Debug\Poker.pdb

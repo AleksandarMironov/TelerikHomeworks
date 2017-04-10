@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Telerik-master\C#Unit-Testing\03. Mocking and JustMock\Homework\Cars\bin\Debug\Cars.dll
+C:\Users\Viva\Desktop\Telerik-master\C#Unit-Testing\03. Mocking and JustMock\Homework\Cars\bin\Debug\Cars.pdb
+C:\Users\Viva\Desktop\Telerik-master\C#Unit-Testing\03. Mocking and JustMock\Homework\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Telerik-master\C#Unit-Testing\03. Mocking and JustMock\Homework\Cars\obj\Debug\Cars.dll
+C:\Users\Viva\Desktop\Telerik-master\C#Unit-Testing\03. Mocking and JustMock\Homework\Cars\obj\Debug\Cars.pdb

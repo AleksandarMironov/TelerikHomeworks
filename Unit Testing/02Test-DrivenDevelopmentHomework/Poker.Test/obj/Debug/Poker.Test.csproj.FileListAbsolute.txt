@@ -1,0 +1,14 @@
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Poker.Test.dll.config
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Poker.Test.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Poker.Test.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Castle.Core.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Moq.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\nunit.framework.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Poker.exe
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Poker.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Castle.Core.xml
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\Moq.xml
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\bin\Debug\nunit.framework.xml
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\obj\Debug\Poker.Test.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\obj\Debug\Poker.Test.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\02. Test-Driven Development\Homework\02Test-DrivenDevelopmentHomework\Poker.Test\obj\Debug\Poker.Test.pdb

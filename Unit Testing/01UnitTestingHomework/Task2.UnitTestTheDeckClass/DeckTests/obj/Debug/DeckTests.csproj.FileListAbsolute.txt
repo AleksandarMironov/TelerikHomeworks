@@ -1,0 +1,8 @@
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\DeckTests.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\DeckTests.pdb
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\nunit.framework.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\Santase.Logic.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\nunit.framework.xml
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.dll
+Z:\Сашо\Telerik\07 Unit Testing (юли 2016)\01. Unit Testing\01UnitTestingHomework\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.pdb
