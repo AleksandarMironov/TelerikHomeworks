@@ -1,0 +1,8 @@
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\bin\Debug\Events.exe
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\bin\Debug\Events.pdb
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\obj\Debug\Events.exe
+C:\Users\Viva\Desktop\HQC-master\HQC part 1\CodeFormatting\Events\Events\obj\Debug\Events.pdb

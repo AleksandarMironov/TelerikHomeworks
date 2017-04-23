@@ -1,0 +1,2 @@
+D:\Telerik\Telerik\C# HQC\Telerik-master\High Quality Code Part 1\03. Naming-Identifiers\bin\Debug\Minesweeper.exe.config
+Z:\Сашо\Telerik\09 High-Quality Code part 1 (август 2016)\Pravilno ime\other\HW_Pravilno-imenuvane (1)\HW3NamingIdentifiers\bin\Debug\Minesweeper.exe.config

@@ -1,0 +1,1 @@
+Z:\Сашо\Telerik\09 High-Quality Code part 1 (август 2016)\6. Променливи, данни, изрази и константи\other\HW_Promenlivi-danni-izrazi-i-konstanti\Task 1. Class Size in CSharp\bin\Debug\Task_1.Class_Size_in_CSharp.exe.config
