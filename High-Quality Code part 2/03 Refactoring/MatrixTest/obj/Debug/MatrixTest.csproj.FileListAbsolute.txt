@@ -1,0 +1,8 @@
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\bin\Debug\MatrixTest.dll
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\bin\Debug\MatrixTest.pdb
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\bin\Debug\nunit.framework.dll
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\bin\Debug\nunit.framework.xml
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\obj\Debug\MatrixTest.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\obj\Debug\MatrixTest.dll
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\MatrixTest\obj\Debug\MatrixTest.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01SimpleMaths", "01SimpleMaths\01SimpleMaths.csproj", "{72A322B6-6ADA-46BD-BE05-D7F9179C2157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02AdvancedMaths", "02AdvancedMaths\02AdvancedMaths.csproj", "{DB16B44E-FB0C-43EF-9E44-4272A831CAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03SortAlgorithms", "03SortAlgorithms\03SortAlgorithms.csproj", "{7104541B-BB0F-40BE-B761-B70834BAE203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A322B6-6ADA-46BD-BE05-D7F9179C2157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A322B6-6ADA-46BD-BE05-D7F9179C2157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A322B6-6ADA-46BD-BE05-D7F9179C2157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A322B6-6ADA-46BD-BE05-D7F9179C2157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB16B44E-FB0C-43EF-9E44-4272A831CAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB16B44E-FB0C-43EF-9E44-4272A831CAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB16B44E-FB0C-43EF-9E44-4272A831CAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB16B44E-FB0C-43EF-9E44-4272A831CAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7104541B-BB0F-40BE-B761-B70834BAE203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7104541B-BB0F-40BE-B761-B70834BAE203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7104541B-BB0F-40BE-B761-B70834BAE203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7104541B-BB0F-40BE-B761-B70834BAE203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

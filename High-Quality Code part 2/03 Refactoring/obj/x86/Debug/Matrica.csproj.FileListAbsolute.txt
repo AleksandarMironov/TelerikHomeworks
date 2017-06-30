@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\bin\Debug\GameFifteen.exe
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\bin\Debug\GameFifteen.pdb
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\obj\x86\Debug\GameFifteen.exe
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\03 Refactoring\Homework\obj\x86\Debug\GameFifteen.pdb

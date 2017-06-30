@@ -1,0 +1,5 @@
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\02 Code Tuning and Optimization\02Compare\02AdvancedMaths\bin\Debug\02AdvancedMaths.exe.config
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\02 Code Tuning and Optimization\02Compare\02AdvancedMaths\bin\Debug\02AdvancedMaths.exe
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\02 Code Tuning and Optimization\02Compare\02AdvancedMaths\bin\Debug\02AdvancedMaths.pdb
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\02 Code Tuning and Optimization\02Compare\02AdvancedMaths\obj\Debug\02AdvancedMaths.exe
+Z:\Сашо\Telerik\11 09 High-Quality Code part 2 (септември 2016)\02 Code Tuning and Optimization\02Compare\02AdvancedMaths\obj\Debug\02AdvancedMaths.pdb
